@@ -1,0 +1,1 @@
+Описание тестового задания тут https://github.com/bodryi/frontend-test
